@@ -1,0 +1,3 @@
+"""
+File di inizializzazione del package tests.
+"""

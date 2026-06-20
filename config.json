@@ -1,0 +1,30 @@
+{
+  "tax_year": 2026,
+  "comment_year": "Anno fiscale di riferimento",
+
+  "capital_gains_tax_rates": {
+    "comment": "Aliquote tassazione plusvalenze per tipo di asset (normativa 2026)",
+    "stablecoin_eur": 0.26,
+    "comment_stablecoin": "E-Money Token ancorati a EUR: 26% (USDC EUR, EUROC, etc.)",
+    "cryptocurrency": 0.33,
+    "comment_crypto": "Bitcoin e altre valute virtuali non-euro: 33%"
+  },
+
+  "capital_gains_default_rate": 0.26,
+  "comment_default": "Aliquota di default se l'asset non è mappato",
+
+  "patrimony_tax_rate": 0.002,
+  "comment_patrimony_rate": "Imposta patrimoniale (bollo/IVAFE): 0,2% applicata da 0 EUR",
+
+  "patrimony_tax_threshold": 0,
+  "comment_threshold": "CORREZIONE 2026: Soglia esenzione imposta patrimoniale = 0 (sempre applicata)",
+
+  "max_loss_deduction": 48000,
+  "comment_loss_deduction": "Massimo importo minusvalenze deducibili per anno fiscale: EUR 48.000",
+
+  "capital_gains_exemption": 0,
+  "comment_exemption": "Franchigia plusvalenze: rimossa (tassazione dal primo centesimo)",
+
+  "enable_logging": false,
+  "comment_logging": "Debug logging (false per produzione)"
+}
