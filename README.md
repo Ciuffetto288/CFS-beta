@@ -35,3 +35,7 @@ Si raccomanda sempre la consulenza di un professionista qualificato prima di pre
 #### Nessuna Garanzia
 
 Il software è fornito "così com’è", senza alcuna garanzia di accuratezza, affidabilità o idoneità a scopi specifici.
+
+
+#### NOTA TECNICA:
+#### I file attualmente presenti nel repository sono stati generati con l’assistenza di strumenti di intelligenza artificiale con l’obiettivo di accelerare la fase iniziale di progettazione e fornire una base strutturata per lo sviluppo. L’obiettivo finale è trasformare il progetto in un sistema completamente validato, testato e mantenuto secondo standard di sviluppo professionali. e nel rispetto delle norme vigenti. 
